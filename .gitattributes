@@ -1,0 +1,10 @@
+public/*.html linguist-vendored
+src/** linguist-detectable
+
+*.svg text
+*.bat text eol=crlf
+package-lock.json linguist-generated
+src/**/*.tsx linguist-detectable
+*.min.js linguist-generated
+
+*.woff2 binary
